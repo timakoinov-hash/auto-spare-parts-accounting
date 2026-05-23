@@ -1,0 +1,19 @@
+gitignore
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Временные файлы
+*.tmp
+*.log
+*.bak
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Папки с данными (если будут)
+data/
+*.db
